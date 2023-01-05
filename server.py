@@ -1,4 +1,4 @@
-# wrote by : Jessica Llanos 327083183 & Margarita Kaplan 321775579
+
 import socket
 import random
 from _thread import *
